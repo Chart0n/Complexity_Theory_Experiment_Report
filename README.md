@@ -5,8 +5,7 @@ The project contains literature review and python experiments on complexity theo
 * The final assessment is supposed to be submitted on **2024.4.22 00:00** (this is for general estimating, please refer to the final deadline on moodle).
 * **Requirments and Tasks:**  
 
-  1. About the report structure, please refer to `ILSC Lecture 17 The Report Structure PH.pptx`  p.9
-  2. The report is supposed to be two section mainly: `Theoretical part` and `Experimental part`
+  1. The report is supposed to be two section mainly: `Theoretical part` and `Experimental part`
 
       1. **Experimental part (This is a optional part could be submitted)**
 
